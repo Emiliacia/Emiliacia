@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Emilia! 👋</h1>
 
-<!--
-**Emiliacia/Emiliacia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/153672284?s=400&u=fd14f4f175c090c83eadf99e5fc84034d19b47a3&v=4" alt="Emilia's Profile Picture" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>A passionate data scientist</b> 🚀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>🔭 Currently working on analyzing and interpreting data</samp><br/>
+  <samp>🌱 Always learning and exploring new methods in data science</samp><br/>
+  <samp>👯 Open to collaborate on data-driven projects</samp><br/>
+  <samp>💼 Freelancing on data science projects</samp><br/>
+  <samp>📫 How to reach me: [bataniucemilia@gmail.com](mailto:bataniucemilia@gmail.com)</samp><br/>
+  <samp>😄 Pronouns: She/Her</samp><br/>
+  <samp>⚡ Fun fact: I'm a coffee enthusiast ☕</samp>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emiliacia">
+    <img src="https://img.shields.io/github/followers/Emiliacia?label=Follow&style=social" alt="GitHub Follow Badge"/>
+  </a>
+</p>
