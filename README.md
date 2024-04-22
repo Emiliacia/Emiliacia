@@ -15,7 +15,8 @@
   <samp>💼 Freelancing on data science projects</samp><br/>
   <samp>📫 How to reach me: [bataniucemilia@gmail.com](mailto:bataniucemilia@gmail.com)</samp><br/>
   <samp>😄 Pronouns: She/Her</samp><br/>
-  <samp>⚡ Fun fact: I'm a coffee enthusiast ☕</samp>
+  <samp>⚡ Fun fact: I'm a yoga enthusiast ☕</samp><br/>
+  <samp>🔗 Connect with me on LinkedIn: [Emilia Bataniuc](https://www.linkedin.com/in/emilia-bataniuc-a1070a70/)</samp>
 </p>
 
 <p align="center">
